@@ -1,0 +1,13 @@
+baseURL = "https://til.phanan.net/"
+languageCode = "en-us"
+title = "Today I Learned"
+
+[params]
+  description = "Little things learned everyday, by Phan An"
+  author = "Phan An"
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  identifier = "home"
+  url = "/"
