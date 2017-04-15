@@ -18,7 +18,7 @@
       <description>&lt;ul&gt;
 &lt;li&gt;a &amp;ldquo;naked&amp;rdquo; or &amp;ldquo;root&amp;rdquo; domain, i.e. one without the &lt;em&gt;www&lt;/em&gt; prefix, is also called an &lt;em&gt;apex&lt;/em&gt; domain&lt;/li&gt;
 &lt;li&gt;about Git&amp;rsquo;s &lt;a href=&#34;https://git-scm.com/docs/git-worktree&#34;&gt;&lt;code&gt;worktree&lt;/code&gt;&lt;/a&gt; feature&lt;/li&gt;
-&lt;li&gt;that CloudFlare&amp;rsquo;s Page Rules can be utilized to force an SSL-redirection, which comes in handy since GitHub pages doesn&amp;rsquo;t support such a feature for custom domains&lt;/li&gt;
+&lt;li&gt;that CloudFlare&amp;rsquo;s Page Rules can be utilized to force an SSL-redirection, which comes in handy since GitHub Pages doesn&amp;rsquo;t support such a feature for custom domains&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
