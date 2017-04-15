@@ -6,8 +6,21 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Apr 2017 17:28:05 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 09:35:06 +0800</lastBuildDate>
     <atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>15-04-17</title>
+      <link>https://til.phanan.net/post/15-04-17/</link>
+      <pubDate>Sat, 15 Apr 2017 09:35:06 +0800</pubDate>
+      
+      <guid>https://til.phanan.net/post/15-04-17/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;a &amp;ldquo;naked&amp;rdquo; or &amp;ldquo;root&amp;rdquo; domain, i.e. one without the &lt;em&gt;www&lt;/em&gt; prefix, is also called an &lt;em&gt;apex&lt;/em&gt; domain&lt;/li&gt;
+&lt;li&gt;about Git&amp;rsquo;s &lt;a href=&#34;https://git-scm.com/docs/git-worktree&#34;&gt;&lt;code&gt;worktree&lt;/code&gt;&lt;/a&gt; feature&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>13-04-17</title>
