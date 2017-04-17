@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://til.phanan.net/post/17-04-17/</loc>
+    <lastmod>2017-04-17T09:11:09+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://til.phanan.net/post/16-04-17/</loc>
     <lastmod>2017-04-16T09:46:43+08:00</lastmod>
   </url>
@@ -18,13 +23,13 @@
   
   <url>
     <loc>https://til.phanan.net/post/</loc>
-    <lastmod>2017-04-16T09:46:43+08:00</lastmod>
+    <lastmod>2017-04-17T09:11:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://til.phanan.net/</loc>
-    <lastmod>2017-04-16T09:46:43+08:00</lastmod>
+    <lastmod>2017-04-17T09:11:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
