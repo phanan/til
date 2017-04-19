@@ -17,7 +17,7 @@
       <pubDate>Wed, 19 Apr 2017 18:44:20 +0800</pubDate>
       
       <guid>https://til.phanan.net/post/19-04-17/</guid>
-      <description> that one of Apple&amp;rsquo;s goals with every OS update is to break libraries and make developers suffer of BackBlaze, a (seems to be) great S3-alternative and good candidate for Koel&amp;rsquo;s next integration of scroll-behavior, a new CSS property to define whether the browser should jump (auto) smoothly scroll to an anchored location  </description>
+      <description> that one of Apple&amp;rsquo;s goals with every OS update is to break libraries and make developers suffer of BackBlaze, a (seems to be) great S3-alternative and good candidate for Koel&amp;rsquo;s next integration of scroll-behavior, a new CSS property to define whether the browser should jump (auto) smoothly scroll to an anchored location that support for CSS variables (aka &amp;ldquo;custom properties&amp;rdquo;) is pretty decent now, which also means I should start using them, lest I get lagged behind of &amp;ldquo;Culture add &amp;gt; culture fit&amp;rdquo;, quoting @Una, a saying so awesome that GitLab added it into their handbook  </description>
     </item>
     
     <item>
