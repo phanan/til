@@ -17,7 +17,7 @@
       <pubDate>Sun, 23 Apr 2017 23:02:09 +0800</pubDate>
       
       <guid>https://til.phanan.net/post/23-04-17/</guid>
-      <description> when interrogated by an SS officer about his painting Guernica, &amp;ldquo;Did you do that?&amp;rdquo; Picasso replied, &amp;ldquo;No, you did.&amp;rdquo; that lodash uses splice in its mutative functions (remove, pull etc.), causing Vue&amp;rsquo;s array change detection to fail how to change a Git commit&amp;rsquo;s timestamp with GIT_COMMITTER_DATE  </description>
+      <description> when interrogated by an SS officer about his painting Guernica, &amp;ldquo;Did you do that?&amp;rdquo; Picasso replied, &amp;ldquo;No, you did.&amp;rdquo; that lodash uses splice in its mutative functions (remove, pull etc.), causing Vue&amp;rsquo;s array change detection to fail (EDIT: this doesn&amp;rsquo;t seem to be the cause, which I&amp;rsquo;m too tired to find out now) how to change a Git commit&amp;rsquo;s timestamp with GIT_COMMITTER_DATE  </description>
     </item>
     
     <item>
