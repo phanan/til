@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://til.phanan.net/post/25-04-17/</loc>
+    <lastmod>2017-04-25T18:45:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://til.phanan.net/post/24-04-17/</loc>
     <lastmod>2017-04-24T19:14:58+08:00</lastmod>
   </url>
@@ -63,7 +68,7 @@
   
   <url>
     <loc>https://til.phanan.net/post/</loc>
-    <lastmod>2017-04-24T19:14:58+08:00</lastmod>
+    <lastmod>2017-04-25T18:45:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,7 +79,7 @@
   
   <url>
     <loc>https://til.phanan.net/</loc>
-    <lastmod>2017-04-24T19:14:58+08:00</lastmod>
+    <lastmod>2017-04-25T18:45:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   

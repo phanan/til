@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2017 19:14:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 18:45:50 +0800</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25-04-17</title>
+      <link>https://til.phanan.net/post/25-04-17/</link>
+      <pubDate>Tue, 25 Apr 2017 18:45:50 +0800</pubDate>
+      
+      <guid>https://til.phanan.net/post/25-04-17/</guid>
+      <description> the difference between Composer CLI options --prefer-dist and --prefer-source  </description>
+    </item>
     
     <item>
       <title>24-04-17</title>
