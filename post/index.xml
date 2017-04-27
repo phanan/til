@@ -17,7 +17,7 @@
       <pubDate>Thu, 27 Apr 2017 20:49:34 +0800</pubDate>
       
       <guid>https://til.phanan.net/post/27-04-17/</guid>
-      <description> of Referrer-Policy, a new security header that allows controls over referrer information  </description>
+      <description> of Referrer-Policy, a new security header that allows controls over referrer information that PHP 5.4 and older have a funny (read: sad) easter egg, where adding ?=PHPE9568F34-D428-11d2-A769-00AA001ACF42 to the URL of a PHP script will produce the PHP logo that php -r &#39;class A { public function __clone() { clone $this; } } clone new A();&#39; produces a SegFault error in PHP, a bug still exists in PHP 7  </description>
     </item>
     
     <item>
