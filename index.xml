@@ -6,10 +6,19 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 20:49:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 22:05:11 +0800</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28-04-17</title>
+      <link>https://til.phanan.net/post/28-04-17/</link>
+      <pubDate>Fri, 28 Apr 2017 22:05:11 +0800</pubDate>
+      
+      <guid>https://til.phanan.net/post/28-04-17/</guid>
+      <description> that HTTP response codes can be basically summed up as:  1**: Hold on 2**: Here you go 3**: Go away 4**: You fucked up 5**: I fucked up  Not really something new, but still interesting.  </description>
+    </item>
     
     <item>
       <title>27-04-17</title>
