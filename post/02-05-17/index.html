@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>02-05-17 | Today I Learned</title>
-    <meta name="description" content=" that Basecamp open-sourced their employee handbook to use async / await  ">
+    <meta name="description" content=" that Basecamp open-sourced their employee handbook to use async / await that to turn an object into an array, [].concat(obj) is significantly slower than obj == null ? [] : (Array.isArray(obj) ? obj : [obj]) `  ">
     <meta name="keywords" content="">
     
     
@@ -17,7 +17,7 @@
 
 
     <meta property="og:title" content="02-05-17" />
-<meta property="og:description" content=" that Basecamp open-sourced their employee handbook to use async / await  " />
+<meta property="og:description" content=" that Basecamp open-sourced their employee handbook to use async / await that to turn an object into an array, [].concat(obj) is significantly slower than obj == null ? [] : (Array.isArray(obj) ? obj : [obj]) `  " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://til.phanan.net/post/02-05-17/" />
 
@@ -172,11 +172,11 @@ a {
   <article itemscope itemtype="http://schema.org/BlogPosting">
     
 <meta itemprop="name" content="02-05-17">
-<meta itemprop="description" content=" that Basecamp open-sourced their employee handbook to use async / await  ">
+<meta itemprop="description" content=" that Basecamp open-sourced their employee handbook to use async / await that to turn an object into an array, [].concat(obj) is significantly slower than obj == null ? [] : (Array.isArray(obj) ? obj : [obj]) `  ">
 
 
 <meta itemprop="dateModified" content="2017-05-02T23:37:32&#43;07:00" />
-<meta itemprop="wordCount" content="11">
+<meta itemprop="wordCount" content="36">
 
 
 
@@ -193,6 +193,8 @@ a {
       <ul>
 <li>that Basecamp open-sourced their <a href="https://github.com/basecamp/handbook/blob/master/README.md">employee handbook</a></li>
 <li>to use <code>async / await</code></li>
+<li>that to turn an object into an array, <code>[].concat(obj)</code> is <a href="https://jsperf.com/array-coerce">significantly slower</a> than <code>obj == null ? [] : (Array.isArray(obj) ? obj : [obj])</code>
+`</li>
 </ul>
 
     </div>
