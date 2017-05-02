@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 21:31:19 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 23:37:32 +0700</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02-05-17</title>
+      <link>https://til.phanan.net/post/02-05-17/</link>
+      <pubDate>Tue, 02 May 2017 23:37:32 +0700</pubDate>
+      
+      <guid>https://til.phanan.net/post/02-05-17/</guid>
+      <description> that Basecamp open-sourced their employee handbook  </description>
+    </item>
     
     <item>
       <title>01-05-17</title>
