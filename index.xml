@@ -17,7 +17,7 @@
       <pubDate>Tue, 02 May 2017 23:37:32 +0700</pubDate>
       
       <guid>https://til.phanan.net/post/02-05-17/</guid>
-      <description> that Basecamp open-sourced their employee handbook to use async / await that to turn an object into an array, [].concat(obj) is significantly slower than obj == null ? [] : (Array.isArray(obj) ? obj : [obj]) `  </description>
+      <description> that Basecamp open-sourced their employee handbook to use async / await that to turn an object into an array, [].concat(obj) is significantly slower than obj == null ? [] : (Array.isArray(obj) ? obj : [obj]) that Spotify users have made over 35 million playlists with emojis in their titles  </description>
     </item>
     
     <item>
