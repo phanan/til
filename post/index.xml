@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2017 09:52:34 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 17:16:19 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29-05-17</title>
+      <link>https://til.phanan.net/post/29-05-17/</link>
+      <pubDate>Mon, 29 May 2017 17:16:19 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/29-05-17/</guid>
+      <description> that Chrome supports a webkitdirectory attribute in input[file], which allos selecting directories instead of files  </description>
+    </item>
     
     <item>
       <title>28-05-17</title>
