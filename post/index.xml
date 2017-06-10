@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2017 22:36:30 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2017 01:06:22 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10-06-17</title>
+      <link>https://til.phanan.net/post/10-06-17/</link>
+      <pubDate>Sat, 10 Jun 2017 01:06:22 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/10-06-17/</guid>
+      <description> how to use vfsStream to mock the real file system in PHP  </description>
+    </item>
     
     <item>
       <title>09-06-17</title>
