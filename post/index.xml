@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2017 17:48:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 18:45:43 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21-06-17</title>
+      <link>https://til.phanan.net/post/21-06-17/</link>
+      <pubDate>Wed, 21 Jun 2017 18:45:43 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/21-06-17/</guid>
+      <description> of place-items, the short-hand property to set both align-items and justify-items in a flex box model  </description>
+    </item>
     
     <item>
       <title>19-06-17</title>
