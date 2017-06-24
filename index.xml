@@ -6,10 +6,19 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 18:45:43 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 11:15:55 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24-06-17</title>
+      <link>https://til.phanan.net/post/24-06-17/</link>
+      <pubDate>Sat, 24 Jun 2017 11:15:55 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/24-06-17/</guid>
+      <description> that Jon Skinner, the sole author of Sublime Text, left his job as a software engineer at Google to pursue his dream of creating a better editor (and he did it so fine)  </description>
+    </item>
     
     <item>
       <title>21-06-17</title>
