@@ -17,7 +17,7 @@
       <pubDate>Sun, 03 Sep 2017 09:07:19 +0100</pubDate>
       
       <guid>https://til.phanan.net/post/03-09-17/</guid>
-      <description> that BBC has a pidgin version  </description>
+      <description> that BBC has a pidgin version that after calling Carbon::setTestNow($mockDate) you should call Carbon::setTestNow() again (without arguments) to reset to the normal behavior and not affect another tests  </description>
     </item>
     
     <item>
