@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 10:27:19 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Sep 2017 09:07:19 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>03-09 17</title>
+      <link>https://til.phanan.net/post/03-09-17/</link>
+      <pubDate>Sun, 03 Sep 2017 09:07:19 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/03-09-17/</guid>
+      <description> that BBC has a pidgin version  </description>
+    </item>
     
     <item>
       <title>29-08-17</title>
