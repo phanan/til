@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 15:08:37 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2017 11:20:35 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16-09-17</title>
+      <link>https://til.phanan.net/post/16-09-17/</link>
+      <pubDate>Sat, 16 Sep 2017 11:20:35 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/16-09-17/</guid>
+      <description> that the rows of dots that connect column in a table or an index (e.g. Chapter 1 . . . . . Page 3) are called &amp;ldquo;dot leaders&amp;rdquo;  </description>
+    </item>
     
     <item>
       <title>07-09-17</title>
