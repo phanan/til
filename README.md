@@ -9,9 +9,10 @@ The source code for [my TIL site](https://til.phanan.net), powered by [Hugo](htt
 
 ## Development
 
-1. Create a new post with `hugo new post/<post-name>.md`. Generally I'd use the date as the post name, so `huto new post/27-01-17.md`.
+1. Create a new post with `hugo new post/<post-name>.md`. Generally I'd use the date as the post name, so `hugo new post/27-01-17.md`.
 1. Edit the post at will: `vi content/post/27-01-17.md`
 1. Generate the content with `hugo --theme=after-dark`
+1. Run the server with `hugo server`
 
 
 ## Deploy
