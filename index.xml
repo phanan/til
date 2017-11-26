@@ -6,27 +6,18 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Nov 2017 13:38:50 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2017 00:15:02 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>08-11-17</title>
-      <link>https://til.phanan.net/post/08-11-17/</link>
-      <pubDate>Wed, 08 Nov 2017 13:38:50 +0100</pubDate>
+      <title>27-11-17</title>
+      <link>https://til.phanan.net/post/26-11-17/</link>
+      <pubDate>Mon, 27 Nov 2017 00:15:02 +0100</pubDate>
       
-      <guid>https://til.phanan.net/post/08-11-17/</guid>
-      <description> of 六書 (liùshū, or lục thư in Vietnamese), the six principles to form Chinese characters  </description>
-    </item>
-    
-    <item>
-      <title>04-11-17</title>
-      <link>https://til.phanan.net/post/04-11-17/</link>
-      <pubDate>Sat, 04 Nov 2017 23:45:01 +0100</pubDate>
-      
-      <guid>https://til.phanan.net/post/04-11-17/</guid>
-      <description> that a trailing comma will be allowed in function &amp;amp; method calls starting from PHP 7.3 (RFC)  </description>
+      <guid>https://til.phanan.net/post/26-11-17/</guid>
+      <description> that in JavaScript you can convert characters to their non-accented versions by just doing str.normalize(&amp;quot;NFD&amp;quot;).replace(/[\u0300-\u036f]/g, &amp;quot;&amp;quot;);  </description>
     </item>
     
     <item>
