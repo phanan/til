@@ -17,7 +17,7 @@
       <pubDate>Mon, 27 Nov 2017 00:15:02 +0100</pubDate>
       
       <guid>https://til.phanan.net/post/26-11-17/</guid>
-      <description> that in JavaScript you can convert characters to their non-accented versions by just doing str.normalize(&amp;quot;NFD&amp;quot;).replace(/[\u0300-\u036f]/g, &amp;quot;&amp;quot;);  </description>
+      <description> that in JavaScript you can convert characters to their non-accented versions by just doing str.normalize(&amp;quot;NFD&amp;quot;).replace(/[\u0300-\u036f]/g, &amp;quot;&amp;quot;); that China bans time travel on TV, saying it &amp;ldquo;disrespects history&amp;rdquo;  </description>
     </item>
     
     <item>
