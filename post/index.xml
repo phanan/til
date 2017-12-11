@@ -17,7 +17,7 @@
       <pubDate>Mon, 11 Dec 2017 00:23:44 +0100</pubDate>
       
       <guid>https://til.phanan.net/post/11-12-17/</guid>
-      <description> that if you&amp;rsquo;re testing a JS-based app with generators (e.g. async/await), you&amp;rsquo;ll need require(&#39;babel-polyfill&#39;) to make sure the polyfill is loaded before the generator is initialized. This will prevent the regeneratorRuntime is not defined error.  </description>
+      <description> that if you&amp;rsquo;re testing a JS-based app with generators (e.g. async/await), you&amp;rsquo;ll need require(&#39;babel-polyfill&#39;) prior to booting the app to make sure the polyfill is loaded before the generator is initialized. This will prevent the regeneratorRuntime is not defined error.  </description>
     </item>
     
     <item>

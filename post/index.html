@@ -183,7 +183,7 @@ a {
   <div itemprop="description">
     <p>TIL</p>
     <ul>
-<li>that if you&rsquo;re testing a JS-based app with generators (e.g. <code>async/await</code>), you&rsquo;ll need <code>require('babel-polyfill')</code> to make sure the polyfill is loaded before the generator is initialized. This will prevent the <code>regeneratorRuntime is not defined</code> error.</li>
+<li>that if you&rsquo;re testing a JS-based app with generators (e.g. <code>async/await</code>), you&rsquo;ll need <code>require('babel-polyfill')</code> prior to booting the app to make sure the polyfill is loaded before the generator is initialized. This will prevent the <code>regeneratorRuntime is not defined</code> error.</li>
 </ul>
 
   </div>
