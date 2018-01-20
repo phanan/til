@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://til.phanan.net/post/20-01-18/</loc>
+    <lastmod>2018-01-20T22:16:43+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://til.phanan.net/post/04-01-18/</loc>
     <lastmod>2018-01-04T02:16:17+01:00</lastmod>
   </url>
@@ -354,7 +359,7 @@
   
   <url>
     <loc>https://til.phanan.net/post/</loc>
-    <lastmod>2018-01-04T02:16:17+01:00</lastmod>
+    <lastmod>2018-01-20T22:16:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -365,7 +370,7 @@
   
   <url>
     <loc>https://til.phanan.net/</loc>
-    <lastmod>2018-01-04T02:16:17+01:00</lastmod>
+    <lastmod>2018-01-20T22:16:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   

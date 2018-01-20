@@ -6,10 +6,19 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jan 2018 02:16:17 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 22:16:43 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20-01-18</title>
+      <link>https://til.phanan.net/post/20-01-18/</link>
+      <pubDate>Sat, 20 Jan 2018 22:16:43 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/20-01-18/</guid>
+      <description> that Webpack has a tool to analyze a webpack&amp;rsquo;ed module  </description>
+    </item>
     
     <item>
       <title>04-01-18</title>
