@@ -6,10 +6,19 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2018 15:34:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 15:56:50 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02-02-18</title>
+      <link>https://til.phanan.net/post/02-02-18/</link>
+      <pubDate>Fri, 02 Feb 2018 15:56:50 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/02-02-18/</guid>
+      <description> to use -webkit-font-smoothing: antialiase to fix the issue with FontAwesome icons being blurry if used as CSS pseudo background  </description>
+    </item>
     
     <item>
       <title>31-01-18</title>
