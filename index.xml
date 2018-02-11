@@ -6,10 +6,19 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Feb 2018 20:14:10 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2018 19:27:55 +0100</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11-02-18</title>
+      <link>https://til.phanan.net/post/11-02-18/</link>
+      <pubDate>Sun, 11 Feb 2018 19:27:55 +0100</pubDate>
+      
+      <guid>https://til.phanan.net/post/11-02-18/</guid>
+      <description> to use Array.prototype.some and Array.prototype.every, which will stop execution once the returned value is true or false correspondingly  </description>
+    </item>
     
     <item>
       <title>03-02-18</title>
