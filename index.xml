@@ -6,10 +6,19 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jul 2018 23:02:12 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Aug 2018 20:59:45 +0200</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10-08-18</title>
+      <link>https://til.phanan.net/post/10-08-18/</link>
+      <pubDate>Fri, 10 Aug 2018 20:59:45 +0200</pubDate>
+      
+      <guid>https://til.phanan.net/post/10-08-18/</guid>
+      <description> about the 47 rōnin that support for IntersectionObserver is kinda poor by the time of this writing. Namely, Safari (both mobile and desktop) doesn&amp;rsquo;t support it at all  </description>
+    </item>
     
     <item>
       <title>21-07-18</title>
