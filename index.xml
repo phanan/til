@@ -6,10 +6,19 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Aug 2018 18:22:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 19:11:16 +0200</lastBuildDate>
     
 	<atom:link href="https://til.phanan.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13-08-18</title>
+      <link>https://til.phanan.net/post/13-08-18/</link>
+      <pubDate>Mon, 13 Aug 2018 19:11:16 +0200</pubDate>
+      
+      <guid>https://til.phanan.net/post/13-08-18/</guid>
+      <description> how to work with Algolia&amp;rsquo;s InstantSearch  </description>
+    </item>
     
     <item>
       <title>12-08-18</title>
